@@ -1,0 +1,519 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":197,"timestamp":"2026-09-11T20:27:36.068Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":181,"timestamp":"2026-09-11T20:27:36.261Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/prueba.wlk not found","timestamp":"2026-09-11T20:27:36.271Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/prueba.wlk not found","timestamp":"2026-09-11T20:27:36.278Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":209,"timestamp":"2026-09-11T21:07:07.820Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":122,"timestamp":"2026-09-11T21:07:07.948Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/example.wlk not found","timestamp":"2026-09-11T21:27:25.735Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/example.wlk not found","timestamp":"2026-09-11T21:27:25.986Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-11T21:27:53.398Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-11T21:27:53.681Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-11T21:29:22.996Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-11T21:29:26.926Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":178,"timestamp":"2026-09-12T02:36:13.991Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:36:15.131Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:36:15.134Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:36:15.689Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:36:15.969Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":35} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:39:37.821Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:38.200Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:38.414Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:42.558Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:42.603Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:44.198Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:44.303Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:45.009Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:45.115Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:58.364Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:39:58.466Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":41} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:27.116Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:27.358Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:27.463Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":42} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:30.623Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":43} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:30.780Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:30.958Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":44} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:31.039Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":45} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:31.280Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":46} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:31.367Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:31.550Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:31.649Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":47} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:31.990Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":48} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:32.135Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:32.313Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:32.428Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":49} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:33.176Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":50} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:33.333Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:33.512Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:33.630Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:38.185Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:38.275Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":42} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:38.759Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":43} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:38.964Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":44} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:39.057Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":45} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:39.294Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":46} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:39.398Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:39.603Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:39.699Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":47} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:39.749Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:39.934Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:40.041Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":48} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:40.215Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":11,\"character\":49} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:40:40.314Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:40.501Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:40.607Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:41.941Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:42.029Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:42.657Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:40:42.755Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":10,\"character\":21} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:43:47.953Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":10,\"character\":22} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:43:48.178Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:43:48.391Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":10,\"character\":23} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:43:48.441Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:43:48.635Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:43:48.739Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:37.790Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:37.881Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":23,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:44:38.512Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:39.325Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:39.418Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:39.653Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:39.744Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":23,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:44:40.238Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:40.709Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:40.819Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:42.993Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:43.099Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:44.238Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:44.329Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:45.612Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:45.697Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:48.682Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:48.773Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:51.054Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:51.145Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:52.272Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:52.380Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:52.601Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:52.695Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":24,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:44:53.094Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:54.374Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:54.483Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":24,\"character\":16} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:44:55.028Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:55.548Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:55.648Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:56.280Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:44:56.375Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:45:44.936Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:45:45.013Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:45:45.282Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:45:45.390Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:46:34.982Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:46:35.069Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:46:35.471Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:46:35.569Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":8} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:42.110Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:42.478Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:42.563Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":11} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:42.720Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:42.800Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:42.991Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:43.095Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":13} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:43.183Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":14} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:43.309Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":15} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:43.502Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:43.701Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":16} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:43.753Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":17} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:44.014Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:44.128Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":45,\"character\":19} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:44.342Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:44.534Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:44.624Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:53.791Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:53.901Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:55.315Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:55.429Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:55.764Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:56.588Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:56.693Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:56.959Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:57.073Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":14} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:57.371Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":15} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:57.482Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":16} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:47:57.585Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:57.773Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:57.879Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:58.960Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:47:59.067Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:00.441Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:01.324Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:01.423Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:02.815Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:02.923Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":49,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:03.468Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:04.707Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:04.800Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:06.019Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:06.124Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:06.867Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:06.966Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:17.942Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":20} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:18.282Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":21} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:18.414Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":22} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:18.578Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":48,\"character\":23} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:18.663Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:18.855Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:18.946Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:22.013Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:22.103Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:22.938Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:23.042Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":49,\"character\":25} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:23.465Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:23.651Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:24.542Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:24.647Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:26.412Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:26.521Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:26.791Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:26.889Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:27.353Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":49,\"character\":26} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:27.425Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:27.610Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:28.384Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:28.489Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":49,\"character\":32} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:29.030Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:29.273Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:29.376Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":49,\"character\":33} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:48:29.470Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:30.319Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:48:30.411Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:16.291Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:16.371Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":18,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:17.243Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:17.700Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:17.991Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:18.095Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":18,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:18.650Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:19.428Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:19.520Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:25.369Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:25.475Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:25.743Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:25.833Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":20,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:26.381Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":20,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:27.469Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:27.652Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:28.434Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:28.533Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:29.195Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:29.300Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:31.701Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:31.800Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":21,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:32.114Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:33.072Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:33.173Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:33.602Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:33.710Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":21,\"character\":16} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:33.729Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:33.915Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:34.018Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:35.468Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:35.569Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":25,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:39.382Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:40.192Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:40.289Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:40.492Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:40.597Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:40.993Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:41.099Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":54,\"character\":39} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:52.908Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:53.141Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:53.245Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":54,\"character\":40} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:53.339Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:54.077Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:54.185Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:55.093Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:55.196Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:56.657Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:49:56.767Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":54,\"character\":42} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:49:59.359Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:00.181Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:00.287Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:00.742Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:00.847Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:01.598Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:01.696Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:02.463Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:02.570Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:17.248Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:18.038Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:18.138Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:45.448Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:45.555Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":52,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:50:47.446Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:47.853Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:47.942Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":52,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:50:48.467Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:48.664Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:48.755Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:50.506Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":52,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:50:51.596Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:51.788Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:51.893Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":52,\"character\":11} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:50:52.890Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:53.702Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:53.807Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:54.494Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:54.597Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:55.196Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:55.601Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:50:55.709Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":24,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:51:16.734Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:18.152Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:18.233Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:21.480Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:21.579Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:50.286Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:50.376Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:51.738Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:51.833Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:52.616Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:51:52.717Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":35,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:10.836Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:11.034Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:11.119Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:11.460Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":35,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:11.743Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:12.606Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:12.698Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:15.359Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:16.023Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:16.136Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:25.229Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":19} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:25.336Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":20} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:25.504Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:25.700Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:25.788Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":21} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:25.816Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":22} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:25.929Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:26.114Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:26.217Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":23} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:26.341Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":24} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:26.580Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":25} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:26.702Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":26} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:26.894Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":46,\"character\":27} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:26.995Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:27.173Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:27.285Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":47,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:33.260Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:34.073Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:34.180Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:34.648Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:34.745Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:35.118Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:35.213Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:35.679Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":47,\"character\":17} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:35.783Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:36.493Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:36.579Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:37.554Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:37.660Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:40.520Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:40.641Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":50,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:40.860Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:41.826Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:41.924Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":50,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:42.342Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:43.168Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:43.278Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:43.864Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:43.977Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:45.577Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:45.683Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":51,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:46.136Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:47.112Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:47.210Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":51,\"character\":16} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:52:47.481Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:48.248Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:52:48.353Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:57:54.293Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:57:54.376Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:57:55.487Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:57:55.587Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:34.847Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:34.928Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:35.235Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:35.575Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:36.320Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:36.428Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:37.139Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":14} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:37.532Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":15} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:37.680Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":16} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:37.837Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":17} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:37.996Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:38.197Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:38.384Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:38.488Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:39.726Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:39.831Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:40.103Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:40.206Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:40.709Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":14} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:41.088Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":15} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:41.230Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":16} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:41.454Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":17} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:41.598Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:41.798Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":19} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:41.950Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:42.149Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:42.232Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:42.601Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:42.691Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":21} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:43.567Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:44.371Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:44.472Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":25} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:47.194Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":28} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:47.719Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":29} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:47.803Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":30} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:47.961Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":32} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:48.256Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":33} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:48.445Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:48.634Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:48.739Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:50.140Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:50.249Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":15,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:52.117Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:52.856Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:52.956Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:53.185Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:53.279Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:53.623Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:53.707Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:54.145Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:54.249Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":15,\"character\":23} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:54.447Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:54.627Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:54.737Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:54.950Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:55.042Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:55.871Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:55.971Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:56.320Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:56.411Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:57.010Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:57.121Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:57.459Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:57.550Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:58.847Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":15,\"character\":24} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T02:58:58.918Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:59.282Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:58:59.387Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:59:01.257Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T02:59:01.372Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":22} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:00:08.197Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:00:08.383Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:00:08.467Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:01:08.616Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:08.809Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:08.895Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:09.246Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:09.354Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":14,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:01:09.836Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:10.402Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:10.508Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:11.516Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:11.614Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:18.117Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:18.234Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":58,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:01:18.584Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:19.359Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:19.448Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":58,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:01:20.535Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:21.430Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:21.541Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:22.170Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:22.276Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":58,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:01:22.868Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:23.204Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:23.318Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:24.648Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:24.739Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":59,\"character\":9} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:01:34.071Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:34.573Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:34.687Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:35.688Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:35.776Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:36.992Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:37.097Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:42.284Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:42.395Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:43.821Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:43.912Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:44.646Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:44.736Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:45.021Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:01:45.120Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:04.467Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:04.568Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":59,\"character\":21} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:02:04.607Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:04.853Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":59,\"character\":22} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:02:04.952Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:05.566Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:05.653Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:05.887Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:05.986Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:07.598Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:07.705Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":59,\"character\":28} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:02:08.553Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:08.794Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:08.900Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":59,\"character\":29} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:02:09.907Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:10.117Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:10.199Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:10.589Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:10.709Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:11.037Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:11.149Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":59,\"character\":33} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:02:11.721Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:11.956Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:12.053Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":59,\"character\":34} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:02:16.397Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:16.593Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:16.979Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:17.087Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:17.653Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:17.748Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:18.668Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:02:18.765Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:05.902Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:05.994Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":36,\"character\":5} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:03:06.364Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:07.368Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:07.473Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:08.457Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:08.563Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":36,\"character\":12} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:03:11.530Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:11.924Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:12.580Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:12.674Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:13.421Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:13.512Z"}
+{"level":"error","message":"Could not find selection node for position {\"line\":36,\"character\":18} in text document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk","timestamp":"2026-09-12T03:03:13.656Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:13.998Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:14.105Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:15.743Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:15.842Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:16.061Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:16.155Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:17.095Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:17.198Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:17.623Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:03:17.717Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:04:26.950Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:04:27.031Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:05:27.556Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:05:27.650Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:05:36.539Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:05:36.635Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:05:37.284Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:05:37.556Z"}
+{"level":"error","message":"✘ Could not produce symbols: document file:///c%3A/Users/ACER/Desktop/o-tp1-biscegliamatias/PdeP%20cargas.wlk not found","timestamp":"2026-09-12T03:05:37.646Z"}

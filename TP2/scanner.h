@@ -22,5 +22,8 @@ typedef enum{
     ERROR_LEXICO= 402
 } Token;
 
+void scanner(char* entrada);
+Token get_token();
+const char* get_lexema();
 
 #endif
