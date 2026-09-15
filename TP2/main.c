@@ -14,19 +14,17 @@ int main(){
         if(ingreasado == NULL){
             break;
         }
-        
-        //el main le entrega al scanner un puntero a la frase ingresada
         scanner(entrada);
 
-        Token t;
+        Token t = 0;
 
-        while(t != TOKEN_FDT){//
-
+        while(t != TOKEN_FDT){
+            t = get_token();
             printf("Token: %d, Lexema: %s\n", t, get_lexema());
-
         };
         
         printf("%s", entrada);
+
 
     }
 

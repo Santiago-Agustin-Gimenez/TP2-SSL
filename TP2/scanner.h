@@ -14,11 +14,13 @@ typedef enum{
     TOKEN_ASIG_RESTA= 108,  // -=
     TOKEN_ASIG_MULT= 109,   // *=
     TOKEN_ASIG_DIV= 110,    // /=
+
+
     TOKEN_FDT= 111,         // Fin del lexema
     TOKEN_VAR= 112,         // Variable
-    TOKEN_CONST= 100,       // Constante
+    TOKEN_CONST= 113,       // Constante
 
-    ERROR= 401
+    ERROR= 401              //Error
 } Token;
 
 void scanner(char* entrada);
